@@ -1,1 +1,0 @@
-SELECT * FROM student.stud_info;
